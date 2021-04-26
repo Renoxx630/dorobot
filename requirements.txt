@@ -58,10 +58,6 @@ pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
 pymorphy2-dicts-ru==2.4.404381.4453942
 pyparsing==2.4.7
-PyQt5==5.15.1
-PyQt5-sip==12.8.1
-PyQt5-stubs==5.14.2.2
-pyqt5-tools==5.15.1.1.7.3
 pytest==6.2.2
 python-dateutil==2.8.1
 python-docx==0.8.7
